@@ -19,10 +19,15 @@ body {
 header,
 footer {
     width: 100%;
-    background: #EEE;
+    background: #eeeeee;
     color: black;
 }
 
 header img.logo {
     height: 2rem;
+}
+
+.movieCard{
+    width: 230px;
+    min-height: 230px;
 }
